@@ -7,4 +7,7 @@ function soma(a,b){
 resultadoSoma = soma(1,2);
 console.log("Resultado da Soma: " + resultadoSoma);
 
-console.log(soma(3,7));
+let multiplicar = function(a,b){
+    return a * b;
+}
+console.log(multiplicar(3,7));
