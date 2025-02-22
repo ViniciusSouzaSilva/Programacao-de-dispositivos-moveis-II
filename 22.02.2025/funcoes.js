@@ -6,3 +6,5 @@ function soma(a,b){
 
 resultadoSoma = soma(1,2);
 console.log("Resultado da Soma: " + resultadoSoma);
+
+console.log(soma(3,7));
